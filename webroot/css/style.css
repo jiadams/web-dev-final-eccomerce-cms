@@ -1,0 +1,52 @@
+nav {
+    height: 75px;
+    line-height: 50px;
+    vertical-align: middle;
+}
+
+nav ul.nav {
+}
+
+.page-header {
+    line-height: 100px;
+    margin-bottom: 30px;
+}
+
+.prod-img {
+    height: 250px;
+}
+
+.prod-img img {
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    vertical-align: middle;
+}
+
+.prod-info {
+    padding-top: 25px;
+}
+
+.cc-container {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background: lightblue;
+}
+
+.cc-container label {
+    display:  block;
+}
+
+.cc-container select {
+    width: 45%;
+    display: inline;
+}
+
+.credit-cart-type {
+    height: 50px;
+}
+
+.credit-cart-type img {
+    height: 50px;
+}
